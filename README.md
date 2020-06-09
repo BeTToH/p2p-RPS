@@ -2,7 +2,7 @@
 Rock, Paper, and Scissors p2p
 Learning some network stuff using python
 
-Python 3
+Python 3 - pygame
 
 It's quite simple, just follow these few steps:
 1. Open the server and network files, then, change in both the variable server to contain your ip address in str format.
